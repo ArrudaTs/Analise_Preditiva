@@ -24,4 +24,4 @@ O algoritmo ingere o histórico de medições reais, aplica tratamento de dados 
 10. Figuras finais
 
 Nota: O arquivo de dados original (AVANCO SEMANAL.xlsx) não foi incluído neste repositório público por questões de confidencialidade e proteção de dados do projeto.
-# Nota: O uso do parâmetro bounds faz com que o SciPy adote automaticamente o método Trust Region Reflective (TRF) em vez do Levenberg-Marquardt.
+* Nota: O uso do parâmetro bounds faz com que o SciPy adote automaticamente o método Trust Region Reflective (TRF) em vez do Levenberg-Marquardt.
